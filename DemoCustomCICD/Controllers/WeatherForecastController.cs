@@ -8,7 +8,7 @@ namespace DemoCustomCICD.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing"
+            "Freezing","Demo1"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
